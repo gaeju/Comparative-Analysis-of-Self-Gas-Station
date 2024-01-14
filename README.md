@@ -1,5 +1,12 @@
 # 주유소 데이터 수집 및 분석
 <br>
+## 프로젝트 개요
+-----
+![image](https://github.com/gaeju/opinet/assets/100760127/ab71ad0b-d9e4-4aa1-b7c1-a040c1039d70)
+
+셀프 주유소가 더 쌀까? 
+유가 데이터를 수집하고 분석하며 정말 셀프 주유소가 저렴한지에 대해 비교 분석해보는 프로젝트를 진행하였습니다.
+<br>
 
 ## 데이터 수집
 - 오피넷(https://www.opinet.co.kr/user/main/mainView.do)에서 셀레니움을 이용해 데이터 수집을 진행하였음
